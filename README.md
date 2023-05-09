@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mobile app development
 - 📓 I’m currently studying Software Engineering at Jadavpur University
 - 💞️ I’m looking to collaborate on more projects
-- 📫 How to reach me LinkedIn :)
+- 📫 How to reach me: beradeep35@gmail.com
 
 <!---
 beradeep/beradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
