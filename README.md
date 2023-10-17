@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @beradeep
+- 👋 Hi, I’m Subhradeep
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning mobile app development
-- 📓 I’m currently studying Software Engineering at Jadavpur University
+- 🌱 I’m currently trying mobile app development
+- 📓 Student at Jadavpur University, Kolkata
 - 💞️ I’m looking to collaborate on more projects
 - 📫 How to reach me: beradeep35@gmail.com
 
