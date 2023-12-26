@@ -1,10 +1,21 @@
-# Hello World!! I am Subhradeep Bera.
+### Hello World!
+## I am Subhradeep Bera
 
-###
+```kotlin
+val SubhradeepBera = human {
+    about {
+        name = "Subhradeep Bera"
+        currently = "Student"
+        university = "Jadavpur University"
+        field = "Information Technology"
+    }
 
-<img align="right" height="225" src="https://gcdnb.pbrd.co/images/8pHNnInRF9uM.gif?o=1"  />
-
-###
+    links {
+        twitter = "@beradeepsubhra"
+        linkedin = "in/subhradeep-bera"
+    }
+}
+```
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -25,25 +36,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beradeep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=beradeep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&rank_icon=github" width="400" alt="stats graph"  />
 </div>
 
 ###
-
-<br clear="both">
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beradeep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img align="right" src="https://streak-stats.demolab.com?user=beradeep&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-## Holopin Badges
-
-[![An image of @beradeep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beradeep)](https://holopin.io/@beradeep)
 
 <!---
 beradeep/beradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
