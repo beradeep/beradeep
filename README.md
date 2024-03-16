@@ -6,10 +6,10 @@
 
 ## 🧐 About
 - 💻 Android App Developer
-- 🌱 I'm currently learning ML
-- 👯 I’m Looking to collaborate with other Developers
+- 🌱 I'm currently an Engineering Undergraduate
+- 👯 I’m looking to collaborate with other Developers
 - 💬 Ask me about Android Development or tech related stuff
-- ⚡ Fun fact: The earth is round :raised_hands:
+- ⚡ Fun fact: The earth is round 🌏
 
 ## Tech Stack
 
